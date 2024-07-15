@@ -6,4 +6,8 @@ This repository contains the HTML index, image folder containing examples used a
 
 -This repository only contains "Part 1: Create the Earthquake Visualization" and not "Part 2: Gather and Plot More Data (Optional)".
 
+-Earthquake data pulled was from USGS; links below:
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
 -XPert Learning Assistant was used to review and double-check the code as needed.
